@@ -152,15 +152,6 @@ permeate 渗透测试系统源码和搭建教程地址可以参考：`https://gi
 ![image](http://tuchuang.songboy.net/xssplatform/11.png)
 
 
-## 六、图书推荐
 
-如果对笔者的文章较为感兴趣，可以关注笔者新书《PHP Web安全开发实战》，现已在各大平台上架销售，封面如下图所示
 
-![image](http://tuchuang.songboy.net/xss2/19.png?1)
 
---------------
-作者：汤青松
-
-日期：2018-12-08
-
-微信：songboy8888
